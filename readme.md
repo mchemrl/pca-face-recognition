@@ -70,7 +70,6 @@ reproducibility: the random seed (`seed = 42`) and the cross-validation split ar
 
 The full table, the curves and the error analysis are in `main.ipynb`.
 
-**question:** how well can PCA (eigenfaces) + a simple classifier identify which of 40 people is in a face photo, and how many components are enough?
 
 **key findings:**
 1. **Identification works well.** PCA (50 components) + logistic regression reaches 0.980 +- 0.007 accuracy. PCA + kNN and PCA + SVM reach about 0.93-0.94.
@@ -87,4 +86,4 @@ The full table, the curves and the error analysis are in `main.ipynb`.
 ## authors
 
 - Polina Vladymyrska
-- ___
+- Viktoriia Dyrda
